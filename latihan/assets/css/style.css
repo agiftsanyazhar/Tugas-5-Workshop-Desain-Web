@@ -41,6 +41,11 @@ body {
   background: #414141;
 }
 
+a {
+  color: #f1f1f1;
+  text-decoration: none;
+}
+
 /* --------------------------------------------------------------
 # Navbar
 -------------------------------------------------------------- */
@@ -108,11 +113,13 @@ body {
 }
 
 .sidebar .logo {
-  width: 150px;
+  width: 15%;
+  position: fixed;
+  background: #0f0f0f;
 }
 
 .sidebar .logo img {
-  width: 100%;
+  width: 150px;
   height: 67px;
   object-fit: cover;
 }
