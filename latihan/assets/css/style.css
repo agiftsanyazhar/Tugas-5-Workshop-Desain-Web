@@ -98,7 +98,7 @@ a {
 -------------------------------------------------------------- */
 .sidebar ul {
   list-style-type: none;
-  margin: 0;
+  margin: 8px 0 0 0;
   padding: 0;
   width: 15%;
   position: fixed;
@@ -168,7 +168,7 @@ a {
 # Section General
 -------------------------------------------------------------- */
 section {
-  padding: 90px 0;
+  padding: 50px 0 0 0;
   margin: 0 0 0 15%;
   overflow: hidden;
 }
@@ -199,7 +199,7 @@ section {
 -------------------------------------------------------------- */
 .video .video-card {
   width: 335px;
-  height: 185px;
+  height: auto;
   border-radius: 18px;
   padding: 12px;
   margin: 8px 0;
