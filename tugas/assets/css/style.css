@@ -159,14 +159,15 @@ td {
 
 .navbar-story .slide-story {
   border-right: 1px solid #cfcfcf;
-  padding: 10px;
+  /* padding: 10px; */
   text-align: center;
+  width: 400px;
 }
 
 .navbar-story .slide-story p {
   color: #d6d6d6;
   font-size: 12px;
-  margin: 0 0 10px 0;
+  /* margin: 0 0 10px 0; */
   text-transform: capitalize;
 }
 
